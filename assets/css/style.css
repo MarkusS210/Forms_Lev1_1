@@ -1,0 +1,28 @@
+body {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+form {
+    background-color: rgb(18, 170, 230);
+    border-radius: 5px; 
+    border: 2px solid black;
+    padding: 20px ;
+}
+
+h3 span {
+    color: red;
+}
+
+/* .Name input{
+    width: 325px;
+} */
+
+.input input{
+    width: 325px;
+}
+
+.select select{
+    width: 330px;
+}
